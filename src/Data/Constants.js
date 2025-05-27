@@ -1,18 +1,21 @@
 export const Bio = {
-    name: "Rushikesh Dhanawade",
+    name: "Pratiksha Biradar",
     roles: [
       "Frontend Developer",
-      "ReactJs Developer",
+      "UI/UX Developer",
+      "SEO & WordPress"
+      // "ReactJs Developer",
       
     
     ],
     description:
-      "A budding React.js developer with a passion for crafting dynamic and user-centric web applications. Armed with a strong understanding of HTML, CSS, and JavaScript, I've recently delved into the world of React.js to bring my creative visions to life. Eager to contribute my fresh perspective and dedication to excellence, I'm excited to collaborate on exciting projects and continue honing my skills in this ever-evolving field.",
-    github: "https://github.com/Rushikesh26699",
+      "I bring a versatile skill set that combines UI development, data analysis, SEO, and graphic design. I build responsive, user-friendly interfaces using HTML, CSS, JavaScript, and Bootstrap, while leveraging SQL, Excel, and data visualization to uncover actionable insights. My expertise also includes implementing effective on-page and off-page SEO strategies to boost online visibility, along with creating visually compelling graphics such as LinkedIn posts and logo designs to enhance brand identity and engagement.",
+
+    github: "https://github.com/Pratiksha-code-tech",
     resume:
       "https://drive.google.com/file/d/1E3s0JkWe0Ap5lvE_6_4ntinhTLpB0lUj/view?usp=drive_link",
-    linkedin: "https://www.linkedin.com/in/rushikeshd26699/",
-    insta: "https://www.instagram.com/_rushii_26_/",
+    linkedin: "https://www.linkedin.com/in/biradar-pratiksha/",
+    insta: "https://www.instagram.com/tanublog?igsh=MTV6b2tuOWM1cjhoMg==",
     // facebook: "https://www.facebook.com/rishav.chanda.165/",
   };
   
@@ -35,7 +38,11 @@ export const Bio = {
           image:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
         },
-        
+        {
+          name: "Bootstrap",
+          image:
+            "https://www.google.com/imgres?q=bootstrap&imgurl=https%3A%2F%2Fepss.ucla.edu%2Fstatic%2Fbootstrap-5.2.3%2Fsite%2Fstatic%2Fdocs%2F5.2%2Fassets%2Fbrand%2Fbootstrap-social-logo.png&imgrefurl=https%3A%2F%2Fepss.ucla.edu%2Fstatic%2Fbootstrap-5.2.3%2Fsite%2Fstatic%2Fdocs%2F5.2%2Fassets%2Fbrand%2F&docid=udj0Q1EMg_SeYM&tbnid=E5bNkgv4_XgphM&vet=12ahUKEwj2kLnnisSNAxX3na8BHSEyFvsQM3oECBwQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwj2kLnnisSNAxX3na8BHSEyFvsQM3oECBwQAA",
+        },
         
       ],
     },
