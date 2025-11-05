@@ -40,7 +40,7 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="HTML CSS" onClick={() => setToggle('HTML CSS')}>HTML CSS</ToggleButton>
           }
         </ToggleButtonGroup>
-        <CardContainer>
+        {/* <CardContainer>
           {toggle === 'all' && projects
             .map((project) => (
               <ProjectCard project={project} openModal={openModal} setOpenModal={setOpenModal}/>
@@ -50,7 +50,7 @@ const Projects = ({openModal,setOpenModal}) => {
             .map((project) => (
               <ProjectCard project={project} openModal={openModal} setOpenModal={setOpenModal}/>
             ))}
-        </CardContainer>
+        </CardContainer> */}
       </Wrapper>
     </Container>
   )
